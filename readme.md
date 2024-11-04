@@ -4,6 +4,8 @@
 
 ### Stretch goal: Build this as a real thing using a raspberry pi, an lcd breakoutboard and a whole lot of buttons and knobs. Isn't it weird how "knob" has a "k."
 
+Phase II of this cellular automata experiment: https://github.com/ngolebiewski/go-cellular-automata
+
 Tech:
 - Go -> Language
 - Ebitengine -> Game engine for Go
